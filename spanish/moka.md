@@ -1,3 +1,4 @@
+```
 alto
 alta
 bajo
@@ -258,3 +259,4 @@ lluvia
 esta lloviendo
 nieve
 esta nevando
+```
