@@ -259,4 +259,13 @@ lluvia
 esta lloviendo
 nieve
 esta nevando
+desayuno
+desayunar
+es la hora de desayunar
+comer
+merendar
+cenar
+yo como
+yo meriendo
+yo ceno
 ```
