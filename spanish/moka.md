@@ -229,7 +229,6 @@ mono
 loro
 cebra
 cocodrilo
-canguro
 zorro
 pequeño
 grande
@@ -268,4 +267,11 @@ cenar
 yo como
 yo meriendo
 yo ceno
+Africa
+Asia
+Europa
+America
+Australia
+Antartida
+El carnaval de los animales
 ```
