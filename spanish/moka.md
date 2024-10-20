@@ -105,6 +105,7 @@ loro
 mono
 zorro
 camello
+ballena
 elefante
 pingüino
 panda
