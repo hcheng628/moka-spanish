@@ -58,10 +58,10 @@ feroz
 ño
 el bosque
 el río
-la pradera
+La pradera
 el mar
 el desierto
-la nieve y hielo
+el hielo y la nieve
 la selva
 donde vive el cocodrilo
 el oso polar vive en la nieve y el hielo
@@ -275,4 +275,6 @@ America
 Australia
 Antartida
 El carnaval de los animales
+La sabana
+Rios y lagos
 ```
