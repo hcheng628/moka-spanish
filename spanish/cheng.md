@@ -12,5 +12,5 @@ spoiler alert
 agglomerative
 procrastinate
 protagonist
-resentments
+resentment
 ```
