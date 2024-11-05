@@ -10,4 +10,7 @@ exponents
 empirical evidence
 spoiler alert
 agglomerative
+procrastinate
+protagonist
+resentments
 ```
