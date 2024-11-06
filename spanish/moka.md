@@ -36,7 +36,6 @@ nariz
 boca
 orejas
 cejas
-dientes
 lengua
 el atletismo
 el baloncesto
@@ -233,9 +232,7 @@ cocodrilo
 zorro
 pequeño
 grande
-fuerte
 rápido
-lento
 tímido
 furioso
 y cuarto
@@ -277,4 +274,14 @@ Antartida
 El carnaval de los animales
 La sabana
 Rios y lagos
+ser
+saber
+tener
+rapido
+vivir
+favorito
+animal
+valiente
+melena
+
 ```
