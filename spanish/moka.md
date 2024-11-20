@@ -13,7 +13,7 @@ liso
 rizado
 moreno
 rubio
-castaño
+castano
 barba
 bigote
 gafas
@@ -26,7 +26,7 @@ tobillo
 encima de
 debajo de
 delante de
-detrás de
+detras de
 dentro de
 al lado de
 entre
@@ -40,23 +40,22 @@ lengua
 el atletismo
 el baloncesto
 el tenis
-la natación
+la natacion
 el ciclismo
 el remo
-el fútbol
+el futbol
 el rugby
-el esquí
+el esqui
 el submarinismo
-rápido
+rapido
 lento
 grande
 peque
 fuerte
-tímido
+timido
 feroz
-ño
 el bosque
-el río
+el rio
 La pradera
 el mar
 el desierto
@@ -65,11 +64,11 @@ la selva
 donde vive el cocodrilo
 el oso polar vive en la nieve y el hielo
 juguetes
-las muñecas
-el balón
+las munecas
+el balon
 la pelota
 la cometa
-el avión
+el avion
 la raqueta
 el peluche
 el coche
@@ -79,7 +78,7 @@ cuesta 1 euro
 cuestan 1 euro
 profesora
 ordenador
-lápiz
+lapiz
 abecedario
 pupitre
 estuche
@@ -87,28 +86,28 @@ regla
 nube
 esta nublado
 sol
-está soleado
+esta soleado
 lluvia
-está lloviendo
+esta lloviendo
 nieve
-está nevando
+esta nevando
 primavera
 verano
-otoño
+otono
 invierno
 que tiempo hace?
 canguro
 jirafa
-león
+leon
 loro
 mono
 zorro
 camello
 ballena
 elefante
-pingüino
+pinguino
 panda
-hipopótamo
+hipopotamo
 tigre
 cebra
 mi comida favorita es?
@@ -143,7 +142,7 @@ camiseta
 camisa
 pantalones
 cortos
-bañador
+banador
 falda
 vestido
 ropa de invierno
@@ -156,7 +155,7 @@ ropa de verano
 camiseta
 camisa
 pantalones cortos
-bañador
+banador
 falda
 vestido
 ropa de invierno
@@ -166,15 +165,15 @@ calcetines
 jersey
 abrigo
 yo llevo
-tú llevas
+tu llevas
 el lleva
 de color
 lunes
 martes
-miércoles
+miercoles
 jueves
 viernes
-sábado
+sabado
 enero
 febrero
 marzo
@@ -189,7 +188,7 @@ noviembre
 diciembre
 primavera
 verano
-otoño
+otono
 invierno
 alto
 alta
@@ -205,7 +204,7 @@ liso
 rizado
 moreno
 rubio
-castaño
+castano
 barba
 bigote
 gafas
@@ -230,10 +229,8 @@ loro
 cebra
 cocodrilo
 zorro
-pequeño
+pequeno
 grande
-rápido
-tímido
 furioso
 y cuarto
 y media
@@ -277,11 +274,25 @@ Rios y lagos
 ser
 saber
 tener
-rapido
 vivir
 favorito
 animal
 valiente
 melena
-
+oveja
+raton
+vaca
+pato
+gallina
+caballo
+burro
+cabra
+conejo
+pollito
+pez
+pajaro
+Si es
+No es
+una
+un
 ```
