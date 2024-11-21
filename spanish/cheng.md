@@ -13,4 +13,5 @@ agglomerative
 procrastinate
 protagonist
 resentment
+resurrect
 ```
