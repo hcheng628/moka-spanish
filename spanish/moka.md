@@ -268,9 +268,9 @@ Europa
 America
 Australia
 Antartida
-El carnaval de los animales
-La sabana
-Rios y lagos
+el carnaval de los animales
+la sabana
+rios y lagos
 ser
 saber
 tener
@@ -293,6 +293,23 @@ pez
 pajaro
 Si es
 No es
+cero
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete
+ocho
+nueve
+diez
 una
 un
+un chino alto
+una china alta
+unos chonos altos
+unas chinas altas
+el/la
+un/una
 ```
