@@ -312,4 +312,19 @@ unos chonos altos
 unas chinas altas
 el/la
 un/una
+gato
+gatito
+gatita
+perro
+perrito
+perrita
+semillas
+fruta
+sabe
+Mi mascota es un perro. 
+Se llama Max. 
+Es de color marrón con manchas blancas. 
+Come carne y croquetas. 
+Sabe dar la pata y buscar la pelota.
+Es muy juguetón y cariñoso.
 ```
