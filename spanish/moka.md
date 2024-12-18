@@ -54,6 +54,7 @@ peque
 fuerte
 timido
 feroz
+feroces
 el bosque
 el rio
 La pradera
@@ -63,6 +64,8 @@ el hielo y la nieve
 la selva
 donde vive el cocodrilo
 el oso polar vive en la nieve y el hielo
+oso
+osos
 juguetes
 las munecas
 el balon
@@ -98,11 +101,15 @@ invierno
 que tiempo hace?
 canguro
 jirafa
+jirafas
 leon
+leones
 loro
 mono
+monos
 zorro
 camello
+camellos
 ballena
 elefante
 pinguino
@@ -110,6 +117,7 @@ panda
 hipopotamo
 tigre
 cebra
+cebras
 mi comida favorita es?
 carne
 arroz
@@ -209,7 +217,6 @@ barba
 bigote
 gafas
 es la
-son las
 en punto
 y media
 y cuarto
@@ -224,9 +231,7 @@ me pongo la chaqueta
 me voy a la escuela
 elefante
 tigre
-mono
 loro
-cebra
 cocodrilo
 zorro
 pequeno
@@ -282,6 +287,7 @@ melena
 oveja
 raton
 vaca
+vacas
 pato
 gallina
 caballo
@@ -290,6 +296,7 @@ cabra
 conejo
 pollito
 pez
+peces
 pajaro
 Si es
 No es
@@ -311,20 +318,37 @@ una china alta
 unos chonos altos
 unas chinas altas
 el/la
+inteligente
+inteligentes
 un/una
 gato
 gatito
 gatita
 perro
+delfin
+delfines
+avestruz
+avestruces
 perrito
 perrita
 semillas
 fruta
 sabe
+hojas
 Mi mascota es un perro. 
 Se llama Max. 
 Es de color marrón con manchas blancas. 
-Come carne y croquetas. 
+Come carne y croquetas.
+comen
 Sabe dar la pata y buscar la pelota.
 Es muy juguetón y cariñoso.
+tiene
+rayas
+cuello muy largo
+platano
+platanos
+saben correr muy rapido
+viven
+tienen
+saben
 ```
