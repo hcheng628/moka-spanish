@@ -351,4 +351,24 @@ saben correr muy rapido
 viven
 tienen
 saben
+ayer
+manana
+ladrar
+acuario
+acuarium
+
+Qué tiempo hace cuando hay tormenta? Hay tormenta
+Cuál es una expresión para el pasado? Hizo
+Qué significa “está lloviendo”?
+Qué tiempo hace en primavera normalmente? Llueve a veces
+Cómo describes el clima en verano? Hace calor
+
+Está nevando
+Hay Niebla
+
+En el verano, hace calor.
+En el invierno, hace frío.
+Cuando hay nubes y agua del cielo, está lloviendo.
+Cuando hace buen tiempo, hace sol.
+En un día muy ventoso, hace viento.
 ```
