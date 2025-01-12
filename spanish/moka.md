@@ -146,28 +146,26 @@ a las almuerzo
 a las cena
 cereales
 ropa de verano
-camiseta
 camisa
-pantalones
 cortos
 banador
 falda
 vestido
 ropa de invierno
-gorro
-guantes
+los guantes
 calcetines
-jersey
+el jersey
 abrigo
 ropa de verano
-camiseta
+la camiseta
 camisa
-pantalones cortos
+los pantalones
+los pantalones cortos
 banador
 falda
 vestido
 ropa de invierno
-gorro
+el gorro
 guantes
 calcetines
 jersey
@@ -356,6 +354,10 @@ manana
 ladrar
 acuario
 acuarium
+las sandalias
+la bufanda
+las botas
+
 
 Qué tiempo hace cuando hay tormenta? Hay tormenta
 Cuál es una expresión para el pasado? Hizo
@@ -371,4 +373,22 @@ En el invierno, hace frío.
 Cuando hay nubes y agua del cielo, está lloviendo.
 Cuando hace buen tiempo, hace sol.
 En un día muy ventoso, hace viento.
+
+Yo llevo una camiseta en verano.
+Tú llevas un abrigo en invierno.
+Él lleva botas cuando nieva.
+Nosotros llevamos ropa de verano en la playa.
+Vosotros lleváis sombreros en el verano.
+Ellos llevas guantes cuando hace frío.
+¿Qué ropa llevan tú hoy?
+Mis amigos y yo llevamos chaquetas en otoño.
+La niña lleva un vestido rojo para la fiesta.
+Qué ropa llevan ustedes en invierno?
+En primavera, llevo una falda cuando hace calor
+Siempre uso calcetines con los zapatos
+En otoño me gusta usar vaqueros y chaqueta.
+Para un evento formal, llevo un vestido
+Cuando hace frío, me pongo una bufanda y un gorro
+Para la nieve uso un abrigo y botas.
+En verano llevo un sandalias cuando voy a la playa
 ```
