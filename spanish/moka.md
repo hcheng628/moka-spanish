@@ -18,7 +18,6 @@ barba
 bigote
 gafas
 piernas
-pies
 brazos
 dedos
 rodilla
@@ -357,7 +356,9 @@ acuarium
 las sandalias
 la bufanda
 las botas
-
+trajes de bano
+escuela
+los pies
 
 Qué tiempo hace cuando hay tormenta? Hay tormenta
 Cuál es una expresión para el pasado? Hizo
@@ -391,4 +392,9 @@ Para un evento formal, llevo un vestido
 Cuando hace frío, me pongo una bufanda y un gorro
 Para la nieve uso un abrigo y botas.
 En verano llevo un sandalias cuando voy a la playa
+Yo llevo un traje formal o un vestido elegante
+En la playa, la gente lleva trajes de bano y sandalias
+Mi mejor amigo lleva un uniforme con una camisa y pantalones
+Yo llevo un vestido ligero y sandalias
+Yo llevo un abrigo, un gorro y guantes
 ```
