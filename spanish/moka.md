@@ -397,4 +397,18 @@ En la playa, la gente lleva trajes de bano y sandalias
 Mi mejor amigo lleva un uniforme con una camisa y pantalones
 Yo llevo un vestido ligero y sandalias
 Yo llevo un abrigo, un gorro y guantes
+Ponerse
+Yo me pongo
+Tu te pones
+El/ella se pone
+Nosotros nos ponemos
+Llevar
+Yo llevo
+Tu llevas
+El/ella lleva
+Nosotros llevamos
+Vosotros lleváis
+Ellos/ellas llevan
+gordos
+tambien
 ```
