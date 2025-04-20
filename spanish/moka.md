@@ -411,4 +411,12 @@ Vosotros lleváis
 Ellos/ellas llevan
 gordos
 tambien
+la cocina
+el cuadro
+la habitacion
+el cuarto de lavado
+el espejo
+la lavadora
+el lavabo
+el jabon
 ```
